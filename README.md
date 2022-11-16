@@ -1,4 +1,4 @@
-_G.FarmAll = false
+_G.FarmAll = true
  function click()
         local vi = game:service'VirtualInputManager'
         vi:SendMouseButtonEvent(500,500, 0, true, game, 1)
